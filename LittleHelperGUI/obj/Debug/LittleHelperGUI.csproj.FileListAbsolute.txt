@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\bin\Debug\LittleHelperGUI.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\bin\Debug\LittleHelperGUI.exe
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\bin\Debug\LittleHelperGUI.pdb
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.exe
+c:\users\alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\LittleHelperGUI\LittleHelperGUI\obj\Debug\LittleHelperGUI.SetUp.resources
